@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified Solutions Architect - Professional(SAP-C01)に滑り込み合格した！(かなり前"
+title: "AWS Certified Solutions Architect - Professional(SAP-C01)に滑り込み合格！(かなり前"
 emoji: "🖋"
 type: "tech"
 topics: ["aws", "sap"]
