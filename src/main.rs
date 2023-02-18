@@ -1,5 +1,11 @@
+#![allow(dead_code)]
+#![allow(unused_variables)]
+
+
 extern crate comrak;
 extern crate glob;
+extern crate regex;
+
 
 extern crate clap;
 use clap::{Parser, Subcommand, ValueEnum};
@@ -29,6 +35,7 @@ enum Format {
 }
 
 fn main() {
+    contents::export_zenn_contents2hugo_robust(".".to_string());
     let cli = Cli::parse();
     match cli.command {
         Commands::Export {
