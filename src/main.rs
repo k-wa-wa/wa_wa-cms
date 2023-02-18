@@ -35,7 +35,6 @@ enum Format {
 }
 
 fn main() {
-    contents::export_zenn_contents2hugo_robust(".".to_string());
     let cli = Cli::parse();
     match cli.command {
         Commands::Export {
