@@ -19,7 +19,9 @@ jobs:
           command: build
           args: --release
 
-      - run: |
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
           mv target/release/zcm .
 
           git config user.email "sek.ohei.w0822@icloud.com"
