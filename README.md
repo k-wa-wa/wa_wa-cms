@@ -1,3 +1,5 @@
 # Zenn投稿用レポジトリ
 
-Zenn用のMarkdownと画像ファイルを他ツールで使用するためのツールを開発中
+https://zenn.dev/wa__wa
+
+[Markdown Contents Manager (mcm)](https://github.com/k-wa-wa/mcm)によって、自作ブログなどにも展開していく(予定
