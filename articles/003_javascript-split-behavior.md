@@ -1,5 +1,5 @@
 ---
-title: "JavaScriptのsplitメソッドで詰まった話"
+title: "JavaScriptのsplitメソッドで詰まった話(教訓)"
 emoji: "💡"
 type: "tech"
 topics: ["javascript", "typescript", "python"]
