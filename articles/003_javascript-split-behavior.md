@@ -4,7 +4,7 @@ emoji: "💡"
 type: "tech"
 topics: ["javascript", "typescript", "python"]
 published: true
-published_at: 2023-2-23 12:55
+published_at: 2023-02-23 12:55
 ---
 
 今回は短めですが、js を使っている中で、困った点があったので、書き留めておきます。
