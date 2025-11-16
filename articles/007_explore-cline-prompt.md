@@ -11,9 +11,9 @@ published_at: 2025-11-16 23:52
 
 [前回の記事](https://zenn.dev/wa__wa/articles/006_explore-github-copilot-prompt#%E5%89%8D%E7%BD%AE%E3%81%8D) をご参照ください。
 
-1. github copilot のプロンプトを覗いてみる
-1. cline のプロンプトを覗いてみる（← イマココ）
-1. github copilot と cline の比較をしてみる
+1. [【第1回】github copilot のプロンプトを覗いてみる](https://zenn.dev/wa__wa/articles/006_explore-github-copilot-prompt)
+1. [【第2回】cline のプロンプトを覗いてみる](https://zenn.dev/wa__wa/articles/006_explore-cline-prompt)（← イマココ）
+1. [【第3回】リバースエンジニアリングから github copilot と cline を比較する](https://zenn.dev/wa__wa/articles/008_compare-github-copilot-and-cline)
 
 ### プロンプト全文（翻訳）
 
@@ -785,4 +785,4 @@ ACT モード
 
 ### つづく
 
-次は [github copilot と cline の比較をしてみる]() で比較をしていきます。
+次は [【第3回】リバースエンジニアリングから github copilot と cline を比較する](https://zenn.dev/wa__wa/articles/008_compare-github-copilot-and-cline) で比較をしていきます。

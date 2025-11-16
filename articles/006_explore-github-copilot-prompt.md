@@ -12,9 +12,9 @@ published_at: 2025-11-10 12:50
 筆者はコーディング支援ツールとして、主に仕事で github copilot、趣味で cline を使用しています。
 cline 強えぇと思いながらも、それぞれがどういったプロンプトで動いているのか、各ツールの差はなぜ生まれるのか、が気になったので以下の順で比較を行っていきたいと思います。
 
-1. github copilot のプロンプトを覗いてみる（← イマココ）
-1. cline のプロンプトを覗いてみる
-1. github copilot と cline の比較をしてみる
+1. [【第1回】github copilot のプロンプトを覗いてみる](https://zenn.dev/wa__wa/articles/006_explore-github-copilot-prompt)（← イマココ）
+1. [【第2回】cline のプロンプトを覗いてみる](https://zenn.dev/wa__wa/articles/006_explore-cline-prompt)
+1. [【第3回】リバースエンジニアリングから github copilot と cline を比較する](https://zenn.dev/wa__wa/articles/008_compare-github-copilot-and-cline)
 
 一連の記事での目的はそれぞれのツールの動き方をざっくり把握することまでとします。
 筆者の英語力の問題によりプロンプトを google 翻訳により日本語化していたり、検証は `hi` という文字列を送るだけだったりと、正確性に欠ける場合があるため、詳細は各ツールのソースコードを読んでいただければと思います。
@@ -321,5 +321,5 @@ validate_cves_for_java
 
 ### つづく
 
-所感は [github copilot と cline の比較をしてみる]() の中で語っていきます。
-次は [cline のプロンプトを覗いてみる]() です
+所感は [【第3回】リバースエンジニアリングから github copilot と cline を比較する](https://zenn.dev/wa__wa/articles/008_compare-github-copilot-and-cline) の中で語っていきます。
+次は [【第2回】cline のプロンプトを覗いてみる](https://zenn.dev/wa__wa/articles/006_explore-cline-prompt) です
