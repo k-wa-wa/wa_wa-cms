@@ -7,8 +7,9 @@ published: true
 published_at: 2025-09-01
 ---
 
-> [!WARNING]
-> この記事はほぼ自分用のメモであり、AI を使用して書いている。
+:::message
+この記事は自分用のメモであり、ほぼすべて AI で書いている。
+:::
 
 自宅の Kubernetes クラスタは、Proxmox VE 上に Ansible で構築・破棄を繰り返す運用をしていた。これをより宣言的に管理し、ノード追加などを容易にしたいと考え、Kubernetes の Cluster API を Proxmox 環境に導入できないかと検討を始めた。
 
